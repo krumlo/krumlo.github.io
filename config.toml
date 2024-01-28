@@ -1,0 +1,14 @@
+baseURL = 'https://krumlo.github.io/'
+languageCode = 'en-us'
+title = 'Krumlo Dev Blog'
+theme = 'm10c'
+
+[params]
+    author = 'Krumlo'
+    description = 'A Blog about things I find interesting'
+
+    [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/krumlo"
+   
